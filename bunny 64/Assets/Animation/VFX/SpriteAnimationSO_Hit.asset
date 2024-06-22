@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d77dfe1d2d6b1e4ca7fb8d6c64d3512, type: 3}
+  m_Name: SpriteAnimationSO_Hit
+  m_EditorClassIdentifier: 
+  frameArray:
+  - {fileID: -1811028620, guid: 771e95b483ec0c0418dd91ea51f800a7, type: 3}
+  - {fileID: -551020017, guid: 771e95b483ec0c0418dd91ea51f800a7, type: 3}
+  - {fileID: -1976397530, guid: 771e95b483ec0c0418dd91ea51f800a7, type: 3}
+  - {fileID: 1875270271, guid: 771e95b483ec0c0418dd91ea51f800a7, type: 3}
+  secPerFrame: 0.1
+  isLoop: 0

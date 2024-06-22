@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d77dfe1d2d6b1e4ca7fb8d6c64d3512, type: 3}
+  m_Name: SpriteAnimationSO_Heart
+  m_EditorClassIdentifier: 
+  frameArray:
+  - {fileID: 959174275, guid: 6a1c3fc393ceb6d4c887483f13ac4bc8, type: 3}
+  - {fileID: 1182323890, guid: 6a1c3fc393ceb6d4c887483f13ac4bc8, type: 3}
+  - {fileID: -935270197, guid: 6a1c3fc393ceb6d4c887483f13ac4bc8, type: 3}
+  secPerFrame: 0.2
+  isLoop: 0
